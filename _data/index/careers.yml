@@ -1,0 +1,62 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: PANAMA team (IRISA - Inria/CNRS)
+    i18n: panama
+  desc:
+    detail: I am currently working as a PhD student in the Panama team (a joint project team between Inria and CNRS). My main research interests are inverse problems in audio & acoustic signal processing.
+    i18n: panama_des
+  date:
+    detail: Nov. 2015
+    i18n: panama_date
+  job:
+    detail: PhD Candidate
+    i18n: panama_job
+  icon: fa-search
+  link: https://team.inria.fr/panama/
+
+- name:
+    detail: Hearing and Balance Centre (ISVR - Southampton University)
+    i18n: southampton
+  desc:
+    detail: Southampton, blablabla
+    i18n: southampton_des
+  date:
+    detail: Mar. 2015 - Sep. 2015
+    i18n: southampton_date
+  job:
+    detail: Engineer in training / Master thesis
+    i18n: southampton_job
+  icon: fa-search
+  link: https://www.southampton.ac.uk/engineering/research/centres/hearing_centre/habc_research.page
+
+
+- name:
+    detail: French Engineering degree (ENSIM)
+    i18n: ensim
+  desc:
+    detail: In November 2015, I graduated from ENSIM, an engineering school in 5 years under the authority of the French Ministry of Education and Research. I specialized in Acoustics, Vibrations, Sensors.
+    i18n: ensim_des
+  date:
+    detail: Nov. 2015
+    i18n: ensim_date
+  job:
+    detail: Student
+    i18n: ensim_job
+  icon: fa-graduation-cap
+  link: http://ensim.univ-lemans.fr/fr/index.html
+
+- name:
+    detail: University of Le Mans Master of Science (Research M.Sc in Acoustcs)
+    i18n: univ
+  desc:
+    detail: In November 2015, I also graduated from Le Mans Université, as I was following a double degree (Research M.Sc specialized in acoustics).
+    i18n: univ_des
+  date:
+    detail: Nov. 2015
+    i18n: univ_date
+  job:
+    detail: Master Student
+    i18n: univ_job
+  icon: fa-graduation-cap
+  link: http://sciences.univ-lemans.fr/master-acoustique/?lang=en

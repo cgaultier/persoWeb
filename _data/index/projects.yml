@@ -1,0 +1,34 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Projects img uses css sprite, before add new projects you should generate sprite img and css file again.
+- name: SPARE
+  i18n: spare
+  url: https://project.inria.fr/spare/
+  #gh_user: jarrekk
+  #repo: saplatform
+  img: /static/assets/img/projects/SPARE.png
+  desc: Spare (SParse Audio REstoration) is a research project aming at proposing a new modeling and algorithmic framework to tackle audio reconstruction issues like denoising and declipping.
+
+- name: VAST
+  i18n: vast
+  url: http://thevastproject.inria.fr
+  #gh_user: jarrekk
+  #repo: Jalpc
+  img: /static/assets/img/projects/VAST.png
+  desc: VAST (The Virtual Acoustic Space Traveler) is a research project aming at providing tools for sound source localization using virtually supervised leanring.
+
+- name: A-SPADE
+  i18n: aspade
+  url: https://spade.inria.fr
+  #gh_user: jarrekk
+  #repo: imgkit
+  img: /static/assets/img/projects/ASPADE.png
+  desc: A-SPADE (Analysis SParse Audio DEclipper) is a research project that developped an audio declipping procedure using analysis sparse modeling priors.
+
+- name: JSM
+  i18n: jsm
+  url: https://jsm.irisa.fr
+  #gh_user: jarrekk
+  #repo: Jalpc-A
+  img: /static/assets/img/projects/JSM.png
+  desc: JSM (Journée Science et Musique) is a science popularization open day about science and musique organized every year by the PANAMA team (IRISA research center, Rennes (France)).

@@ -1,0 +1,37 @@
+.sprite {
+    background-size: 100px 100px;
+    background-image: url(../img/landing/project-sprite.png);
+    /* background-repeat: no-repeat; */
+    /* display: block; */
+}
+
+.sprite-jalpc-a {
+  height:100px;
+  width:100px;
+  background:url(../img/landing/project-sprite.png) -0px -0px no-repeat;
+}
+
+
+.sprite-imgkit {
+    width: 85px;
+    height: 100px;
+    border-radius: 100px;
+    /* margin: 0 auto; */
+    background-position: -100px 100px;
+}
+
+.sprite-jalpc {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    /* margin: 0 auto; */
+    background-position: 0px -100px;
+}
+
+.sprite-saplatform {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    /* margin: 0 auto; */
+    background-position: -100px 0px;
+}

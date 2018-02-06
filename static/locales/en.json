@@ -1,0 +1,65 @@
+{
+  "website":{
+    "title": "Clément Gaultier",
+    "cvButton": "Download my detailed Résumé",
+    "cvLink": "/static/assets/pdf/CV_en.pdf",
+    "publications_sec": "My publications"
+  },
+  "nav":{
+    "home": "Home",
+    "about_me": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "career": "CV",
+    "blog": "Blog",
+    "link": "Contact"
+  },
+  "about_me":{
+    "about_me": "About Me",
+    "des": "I work as a PhD student in the PANAMA team mainly on solving acoustic and audio signal processing inverse problems. From November 2015 I have been working on declipping and denoising using analysis/synthesis sparse priors. I also work on binaural sound source localization with massive regressions machine learning techniques. Additionaly, I am really interested in the auditory system functionning and topics such as augmented hearing, speech enhancement or hearing protection."
+  },
+  "skills":{
+    "my_skills": "My Skills"
+  },
+  "projects":{
+    "my_projects": "My Projects",
+    "intro": "Below are listed some of the projects I am working on. Click on the name to visit the associated webpage.",
+    "spare": "Spare (SParse Audio REstoration) is a research project aming at proposing a new modeling and algorithmic framework to tackle audio reconstruction issues like denoising and declipping.",
+    "vast": "VAST (The Virtual Acoustic Space Traveler) is a research project aming at providing tools for applications such as sound source localization or room absorption prediction, using virtually supervised learning.",
+    "jsm": "JSM (Journée Science et Musique) is a science popularization open day about science and music organized every year by the PANAMA team (IRISA research center, Rennes (France)).",
+    "aspade": "A-SPADE (Analysis SParse Audio DEclipper) is a research project that developped an audio declipping procedure using analysis sparse modeling priors."
+  },
+  "career":{
+    "my_career": "My CV",
+    "intro": "You will find below a short description of my last positions and academic degrees.",
+    "panama": "PANAMA team, IRISA - Inria/CNRS (France)",
+    "panama_des": "I am currently working as a PhD student in the Panama team (a joint project team between Inria and CNRS). My main research interests are inverse problems in audio & acoustic signal processing.",
+    "panama_date": "Nov. 2015",
+    "panama_job": "PhD Candidate",
+    "southampton": "Hearing and Balance Centre, ISVR - Southampton University (UK)",
+    "southampton_des": "During this research stay, I studied auditory adaptation to noise for improved speech perception. The focus was finding noise characteristics and aclimatization time-scales for enhanced speech perception. For that I designed and conducted different listening experiments on 33 volunteers with normal hearing.",
+    "southampton_date": "Mar. 2015 - Sep. 2015",
+    "southampton_job": "Engineer in training / Master thesis",
+    "ensim": "French Engineering degree (ENSIM)",
+    "ensim_des": "In November 2015, I graduated from ENSIM, an engineering school in 5 years under the authority of the French Ministry of Education and Research. I specialized in Acoustics, Vibrations, Sensors.",
+    "ensim_date": "Nov. 2015",
+    "ensim_job": "Student",
+    "univ": "University Master of Science (Research M.Sc in Acoustics)",
+    "univ_des": "In November 2015, I also graduated from Le Mans Université, as I was following a double degree (Research M.Sc specialized in acoustics).",
+    "univ_date": "Nov. 2015",
+    "univ_job": "Master Student"
+  },
+  "blog":{
+    "my_blog": "My Blog"
+  },
+  "link":{
+    "intro": "Snail mail should go to the address below, otherwise, you can click on the enveloppe to send me an email.",
+    "link": "Contact",
+    "view": "views",
+    "thanks": "Powered by Jekyll using the Jalpc theme.",
+    "address": "Address:",
+    "phone": "Phone:",
+    "number": "+33 629 509 072"
+  }
+
+}

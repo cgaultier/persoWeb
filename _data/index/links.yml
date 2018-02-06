@@ -1,0 +1,23 @@
+# links section data
+- last_name: Gaultier
+  first_name: Clément
+  desc:
+  website: http://www.gaultier.io
+  email: clement.gaultier@inria.fr
+  post: Centre Inria Rennes-Bretagne-Atlantique
+  office: Bureau C 316
+  number: Campus de Beaulieu
+  city: 35042 Rennes cedex
+  country: France
+
+# - last_name: Donate
+#   first_name: Jalpc
+#   desc: Support Jalpc
+#   website: http://www.jarrekk.com/donate/
+#   email: me@jarrekk.com
+#
+# - last_name: Lucas
+#   first_name: Schejtman
+#   desc: Full Stack Developer.
+#   website: http://lucasschejtman.github.io
+#   email: lucas.schejtman@gmail.com

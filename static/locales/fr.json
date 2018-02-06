@@ -1,0 +1,65 @@
+{
+  "website":{
+    "title": "Clément Gaaultier",
+    "cvButton": "Télécharger mon CV détaillé (anglais)",
+    "cvLink": "/static/assets/pdf/CV_fr.pdf",
+    "publications_sec": "Mes Publications"
+  },
+  "nav":{
+    "home": "Accueil",
+    "about_me": "Informations",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "career": "CV",
+    "blog": "Blog",
+    "link": "Contact"
+  },
+  "about_me":{
+    "about_me": "Informations",
+    "des": "Je travaille comme doctorant au sein de l'équipe PANAMA, principalement sur la résolution de problèmes inverses en acoustique et traitement du signal audio. Depuis novembre 2015, j'ai pu proposer des techniques de débruitage et désaturation grâce à des modèles parcimonieux. J'ai pu également expérimenter des méthodes de localisation binaurale de sources sonores basées sur des techniques d'apprentissage. Par ailleurs, je suis très interessé par le fonctionnement du système auditif et des sujets tels que l'audition augmentée, la correction ou la protection auditive."
+  },
+  "skills":{
+    "my_skills": "Mes Compétences"
+  },
+  "projects":{
+    "my_projects": "Mes Projets",
+    "intro": "Ci-dessous, vous trouverez quelques projets sur lequels je travaille. Cliquez sur le nom pour visiter la page web associée.",
+    "spare": "Spare (SParse Audio REstoration) est un projet de recherche proposant un nouveau cadre pour traiter des problèmes de reconstruction audio comme le débruitage et la désaturation.",
+    "vast": "VAST (The Virtual Acoustic Space Traveler) apporte de nouveaux outils pour des applications comme la localisation de source sonores ou l'estimation d'absorption en utilisant des méthodes d'apprentissage virtuellement supervisé.",
+    "jsm": "JSM (Journée Science et Musique) est une journée grand public de médiation scientifique sur les thèmes Science & Musique organisée chaque année par l'équipe PANAMA (Centre de recherche IRISA - Rennes) ",
+    "aspade": "A-SPADE (Analysis SParse Audio DEclipper) développe une méthode de désaturation audio utilisant des \"a priori\" parcimomieux à l'analyse."
+  },
+  "career":{
+    "my_career": "Mon CV",
+    "intro": "Vous trouverez ci-dessous une courte description de ma situation professionelle ainsi que mes diplômes.",
+    "panama": "Équipe PANAMA, IRISA - Inria/CNRS (France)",
+    "panama_des": "Je suis actuellement doctorant au sein de l'équipe PANAMA (une équipe commune à Inria et au CNRS). Mes thèmes de recherche sont la résolution de problèmes inverses en acoustique et traitement du signal audio.",
+    "panama_date": "Nov. 2015",
+    "panama_job": "Doctorant",
+    "southampton": "Hearing and Balance Centre, ISVR - Southampton University (Royaume-Uni)",
+    "southampton_des": "Pendant ce séjour de recherche, j'ai pu étudier les phénomènes d’acclimatisation au bruit environnant en présence de parole. Pour cela j'ai mené plusieurs expériences d’écoute conduites sur 33 sujets volontaires. D’une part afin de confirmer cet effet d’adaptation et d’autre part pour évaluer le temps nécessaire aux individus pour améliorer leur perception d’un discours en présence bruit de fond.",
+    "southampton_date": "Mar. 2015 - Sep. 2015",
+    "southampton_job": "Stage de fin d'études",
+    "ensim": "Titre d'ingénieur Vibrations, Acoustique, Capteurs (ENSIM)",
+    "ensim_des": "En novembre 2015, j'ai été diplômé de l'ENSIM spécialité Vibrations, Acoustique, Capteurs.",
+    "ensim_date": "Nov. 2015",
+    "ensim_job": "Élève ingénieur",
+    "univ": "Master 2 recherche - Acoustique",
+    "univ_des": "En novembre 2015, j'ai également été diplômé de l'Université du Maine, Master 2 recherche - Acoustique.",
+    "univ_date": "Nov. 2015",
+    "univ_job": "Étudiant de Master"
+  },
+  "blog":{
+    "my_blog": "My Blog"
+  },
+  "link":{
+    "intro": "Pour m'écrire par voie postale, utilisez l'adresse ci-dessous ou cliquez sur l'enveloppe pour m'envoyer un courier électronique.",
+    "link": "Contact",
+    "view": "vues",
+    "thanks": "Propulsé par Jekyll avec le thème Jalpc.",
+    "address": "Adresse :",
+    "phone": "Téléphone :",
+    "number": "06 29 50 90 72"
+  }
+
+}
