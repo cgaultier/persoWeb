@@ -16,8 +16,8 @@ author:
   name: Clément Gaultier
   first_name: Clément
   last_name: Gaultier
-  cv: https://www.gaultier.io/static/assets/pdf/CV_en.pdf
-  email: clement@gaultier.io
+  cv: http://gaultier.io/static/assets/pdf/CV_en.pdf
+  email: clement.gaultier@inria.fr
   facebook_username: # removed in the template
   github_username: # removed in the template
   linkedin_id: clément-gaultier
