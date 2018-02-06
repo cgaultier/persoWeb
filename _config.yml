@@ -2,10 +2,10 @@
 
 # Website settings
 title: Clément Gaultier
-description: Clément's blog, use Jekyll and github pages.
+description: Clément, PhD candidate, Inria Rennes.
 keywords: Clément Gaultier,Auditory,Sound,Acoustics,DSP,Signal Processing,Audio,Declipping,Denoising
 baseurl:
-url: https://www.gaultier.io
+url: http://www.gaultier.io
 # url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog
 cvButton: Download my detailed CV
@@ -38,8 +38,8 @@ author:
 
 # analytics
 ## google analytics
-# ga:
-#  id: UA-113020414-1
+ga:
+ id: UA-113020414-1
 
 #go:
 #  id:
