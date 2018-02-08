@@ -2,10 +2,10 @@
 
 # Website settings
 title: Clément Gaultier
-description: Clément, PhD candidate, Inria Rennes.
-keywords: Clément Gaultier,Auditory,Sound,Acoustics,DSP,Signal Processing,Audio,Declipping,Denoising,Inria,Hearing,Speech,Enhancement
+description: Clément Gaultier, PhD candidate, Inria Rennes.
+keywords: Clément,Gaultier,Auditory,Sound,Acoustics,DSP,Signal Processing,Audio,Declipping,Denoising,Inria,Hearing,Speech,Enhancement
 baseurl:
-url: http://gaultier.io
+url: https://gaultier.io
 # url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog
 cvButton: Download my detailed CV
@@ -16,7 +16,7 @@ author:
   name: Clément Gaultier
   first_name: Clément
   last_name: Gaultier
-  cv: http://gaultier.io/static/assets/pdf/CV_en.pdf
+  cv: https://gaultier.io/static/assets/pdf/CV_en.pdf
   email: clement.gaultier@inria.fr
   facebook_username: # removed in the template
   github_username: # removed in the template
@@ -30,7 +30,7 @@ author:
   skill_icon2:
     - name: fa-assistive-listening-systems
     - name: fa-microphone
-  desc: I work as a PhD student in the PANAMA team mainly on solving acoustic and audio signal processing inverse problems. From November 2015 I have been working on declipping and denoising using analysis/synthesis sparse priors. I also work on binaural sound source localization with massive regressions machine learning techniques. Additionaly, I am really interessted in the auditory system functionning and topics such as augmented hearing, speech enhancement or heraing protection.
+  desc: Clément Gaultier, PhD candidate (audio signal processing) Inria Rennes.
 
 # comment
 # disqus:
