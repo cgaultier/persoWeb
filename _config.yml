@@ -30,7 +30,7 @@ author:
   skill_icon2:
     - name: fa-assistive-listening-systems
     - name: fa-microphone
-  desc: Clément Gaultier, PhD candidate (audio signal processing) Inria Rennes.
+  desc: I work as a PhD student in the PANAMA team mainly on solving acoustic and audio signal processing inverse problems. From November 2015 I have been working on declipping and denoising using analysis/synthesis sparse priors. I also work on binaural sound source localization with massive regressions machine learning techniques. Additionally, I am really interested in the auditory system functionning and topics such as augmented hearing, speech enhancement or hearing protection.
 
 # comment
 # disqus:
