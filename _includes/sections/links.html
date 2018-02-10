@@ -32,9 +32,18 @@
                 </li>
             </ul>
         </div>
+
         </div>
     {% endfor %}
+
     </div>
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
+            <p><span data-i18n="link.share">Share my website:</span></p>
+            {% include share.html %}
+        </div>
+    </div>
+
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
             <p id="jalpc_site_pv"><strong>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}</strong> - <span data-i18n="link.thanks">Powered by Jekyll using the Jalpc theme.</span></p>
