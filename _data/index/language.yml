@@ -4,6 +4,8 @@
 # If you don't want this feature, just clear this file content then ignore "i18n" in files careers.yml and projects.yml
 - locale: fr
   flag: /static/assets/img/flags/France.png
+  alt: Français
 
 - locale: en
   flag: /static/assets/img/flags/United-States.png
+  alt: English
