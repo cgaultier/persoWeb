@@ -29,8 +29,8 @@ var cbpAnimatedHeader = (function() {
     window.addEventListener('scroll', function() { setTimeout(scrollPage, scrollDebounce); }, false);
 })();
 
-// Activate WOW.js plugin for animation on scroll
-
+// // Activate WOW.js plugin for animation on scroll
+//
 var scrolled = false;
 $(window).on('scroll', function() {
 if (!scrolled) {
