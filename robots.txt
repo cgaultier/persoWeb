@@ -3,5 +3,4 @@ title: robots
 ---
 User-agent: *
 Sitemap: {{site.url}}/sitemap.xml
-Disallow: {{site.url}}/static/assets/pdf/
 Disallow: {{site.url}}/static/assets/img/landing/Clement.png
