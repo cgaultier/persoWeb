@@ -16,7 +16,7 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "My name is Clément Gaultier, I work as a PhD student in the PANAMA team mainly on solving acoustic and audio signal processing inverse problems. From November 2015 I have been working on declipping and denoising using analysis/synthesis sparse priors. I also work on binaural sound source localization with massive regressions machine learning techniques. Additionally, I am really interested in the auditory system functionning and topics such as augmented hearing, speech enhancement or hearing protection."
+    "des": "My name is Clément Gaultier, I work as a PhD student in the PANAMA team mainly on solving acoustic and audio signal processing inverse problems. From November 2015 I have been working on declipping and denoising using analysis/synthesis sparse priors. I also work on binaural sound source localization with massive regressions machine learning techniques. Additionally, I am really interested in the auditory system and topics such as augmented hearing, speech enhancement or hearing protection."
   },
   "skills":{
     "my_skills": "My Skills"
@@ -37,7 +37,7 @@
     "panama_date": "Nov. 2015",
     "panama_job": "PhD Candidate",
     "southampton": "Hearing and Balance Centre, ISVR - Southampton University (UK)",
-    "southampton_des": "During this research stay, I studied auditory adaptation to noise for improved speech perception. The focus was finding noise characteristics and aclimatization time-scales for enhanced speech perception. For that I designed and conducted different listening experiments on 33 volunteers with normal hearing.",
+    "southampton_des": "During this research stay, I studied auditory adaptation to noise for improved speech perception. The focus was finding noise characteristics and aclimatization time-scales for enhanced speech perception. For that purpose, I designed and conducted different listening experiments on 33 volunteers with normal hearing.",
     "southampton_date": "Mar. 2015 - Sep. 2015",
     "southampton_job": "Engineer in training / Master thesis",
     "ensim": "French Engineering degree (ENSIM)",
