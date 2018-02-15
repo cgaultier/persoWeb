@@ -36,7 +36,8 @@
     <meta itemprop="name" content="{{ site.author.name }}"/>
     <meta itemprop="email" content="{{ site.author.email }}"/>
     <meta itemprop="image" content="{{ site.author.avatar | prepend: site.baseurl }}"/>
-    <link itemprop="url" href="https://gaultier.io">
-    <a itemprop="sameAs" href="https://www.linkedin.com/in/clement-gaultier"></a>
+    <link itemprop="url" href="{{ site.url }}">
+    <a itemprop="sameAs" href="https://www.linkedin.com/in/{{ site.author.linkedin_id }}"></a>
+    <a itemprop="sameAs" href="{{ site.author.viadeo_address }}"></a>
   </span>
 </head>
