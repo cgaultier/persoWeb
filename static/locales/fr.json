@@ -2,8 +2,7 @@
   "website":{
     "title": "Clément Gaaultier",
     "cvButton": "Télécharger mon CV détaillé (anglais)",
-    "cvLink": "/static/assets/pdf/CV_fr.pdf",
-    "publications_sec": "Mes Publications"
+    "cvLink": "/static/assets/pdf/CV_fr.pdf"
   },
   "nav":{
     "home": "Accueil",
@@ -49,8 +48,9 @@
     "univ_date": "Nov. 2015",
     "univ_job": "Étudiant de Master"
   },
-  "blog":{
-    "my_blog": "My Blog"
+  "publictions":{
+    "my_publications": "Mes Publications",
+    "intro": ""
   },
   "link":{
     "intro": "Pour m'écrire par voie postale, utilisez l'adresse ci-dessous ou cliquez sur l'enveloppe pour m'envoyer un courier électronique.",
