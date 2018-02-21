@@ -20,6 +20,7 @@
   {% if site.data.index.language %}
   <script async defer src="{{"/static/assets/i18-20170905.min.js"| prepend: site.baseurl }}"></script>
   {% endif %}
+  <link rel="alternate" href="{{ site.url }}" hreflang="x-default" />
 
   {% if site.data.index.projects %}
   <script async defer src="{{ "/static/js/github_api.min.js" | prepend: site.baseurl }}"></script>
