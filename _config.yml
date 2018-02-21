@@ -2,7 +2,7 @@
 
 # Website settings
 title: Clément Gaultier
-description: Clément Gaultier, PhD candidate, Inria Rennes.
+description: My name is Clément Gaultier. I work as a PhD student in the PANAMA team mainly on solving acoustic and audio signal processing inverse problems.
 keywords: Clément Gaultier Auditory Sound Acoustics DSP Signal Processing Audio Declipping Denoising Inria Hearing Speech Enhancement
 baseurl:
 url: https://gaultier.io
@@ -21,7 +21,7 @@ author:
   facebook_username: # removed in the template
   github_username: # removed in the template
   linkedin_id: clement-gaultier
-  viadeo_address: http://www.viadeo.com/p/002e58nukfal0ds 
+  viadeo_address: http://www.viadeo.com/p/002e58nukfal0ds
   twitter_username:
   scholar_address: https://scholar.google.com/citations?user=pP4U2sMAAAAJ&hl=en
   avatar: /static/assets/img/landing/Clement.png
