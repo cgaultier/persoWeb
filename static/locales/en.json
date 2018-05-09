@@ -15,7 +15,7 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "Welcome to my webpage, my name is Clément Gaultier. I work as a PhD student in the PANAMA team mainly on solving acoustic and audio signal processing inverse problems. From November 2015 I have been working on declipping and denoising using analysis/synthesis sparse priors. I also work on binaural sound source localization with massive regressions machine learning techniques. Additionally, I am really interested in the auditory system and topics such as augmented hearing, speech enhancement or hearing protection."
+    "des": "Welcome to my webpage, my name is Clément Gaultier. I work as a PhD student in the PANAMA team mainly on solving acoustic and audio signal processing inverse problems. Since November 2015 I have been working on declipping and denoising using analysis/synthesis sparse priors. I also work on binaural sound source localization with massive regressions machine learning techniques. Additionally, I am really interested in the auditory system and topics such as augmented hearing, speech enhancement or hearing protection."
   },
   "skills":{
     "my_skills": "My Skills"
