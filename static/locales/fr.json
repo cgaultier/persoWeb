@@ -50,7 +50,8 @@
   },
   "publications":{
     "my_publications": "Mes Publications",
-    "intro": "Vous trouverez ci-dessous une liste de mes publications scientifiques."
+    "intro": "Vous trouverez ci-dessous une liste de mes publications scientifiques.",
+    "preprint": "Rapports/en cours..."
   },
   "link":{
     "intro": "Pour m'écrire par voie postale, utilisez l'adresse ci-dessous ou cliquez sur l'enveloppe pour m'envoyer un courrier électronique.",
