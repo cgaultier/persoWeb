@@ -2,8 +2,8 @@
 
 # Website settings
 title: Clément Gaultier - Clément Gaultier
-description: My name is Clément Gaultier. I work as a PhD student in the PANAMA team (IRISA research center, Rennes) mainly on solving acoustic and audio signal processing inverse problems.
-keywords: Clément Gaultier Auditory Sound Acoustics DSP Signal Processing Audio Declipping Denoising Inria Hearing Speech Enhancement Clement
+description: Clément Gaultier, PhD in audio signal processing - M.Sc in acoustics - Graduate engineer in vibrations, acoustics, sensors. 
+keywords: Clément Gaultier Auditory Sound Acoustics DSP Signal Processing Audio Declipping Denoising Inria Hearing Aid Speech Enhancement Clement Audio
 baseurl:
 url: https://gaultier.io
 # url: http://127.0.0.1:4000
@@ -31,7 +31,7 @@ author:
   skill_icon2:
     - name: fa-assistive-listening-systems
     - name: fa-microphone
-  desc: My name is Clément Gaultier, I work as a PhD student in the PANAMA team (IRISA research center, Rennes) mainly on solving acoustic and audio signal processing inverse problems. Since November 2015 I have been working on declipping and denoising using analysis/synthesis sparse priors. I also work on binaural sound source localization with massive regressions machine learning techniques. Additionally, I am really interested in the auditory system and topics such as augmented hearing, speech enhancement or hearing protection.
+  desc: "Welcome to my webpage. My strong insterest in sound, acoustics or hearing drove me towards graduate studies specialized notably in acoustics and a PhD specialized in audio signal processing. My research topics mainly comprise solving acoustic and audio signal processing inverse problems. During my PhD I had been working on declipping and denoising using analysis/synthesis sparse priors. I also worked on binaural sound source localization with massive regressions machine learning techniques. Additionally, I am really interested in the auditory system and topics such as augmented hearing, speech enhancement or hearing protection."
 
 # comment
 # disqus:
