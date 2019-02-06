@@ -4,10 +4,10 @@
     detail: PANAMA team (IRISA - Inria/CNRS)
     i18n: panama
   desc:
-    detail: I am currently working as a PhD student in the Panama team (a joint project team between Inria and CNRS). My main research interests are inverse problems in audio & acoustic signal processing.
+    detail: In January 2019, I graduated from Université de Rennes 1 where I did my PhD in the IRISA lab (the Panama team - a joint project team between Inria and CNRS). My main research interests were inverse problems in audio & acoustic signal processing.
     i18n: panama_des
   date:
-    detail: Nov. 2015
+    detail: Nov. 2015 - Jan. 2019
     i18n: panama_date
   job:
     detail: PhD Candidate
@@ -41,7 +41,7 @@
     detail: Nov. 2015
     i18n: ensim_date
   job:
-    detail: Student
+    detail: Post graduate Student
     i18n: ensim_job
   icon: fa-graduation-cap
   link: http://ensim.univ-lemans.fr/fr/index.html

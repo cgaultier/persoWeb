@@ -15,7 +15,7 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "Welcome to my webpage, my name is Clément Gaultier. I work as a PhD student in the PANAMA team mainly on solving acoustic and audio signal processing inverse problems. Since November 2015 I have been working on declipping and denoising using analysis/synthesis sparse priors. I also work on binaural sound source localization with massive regressions machine learning techniques. Additionally, I am really interested in the auditory system and topics such as augmented hearing, speech enhancement or hearing protection."
+    "des": "Welcome to my webpage. My strong insterest in sound, acoustics or hearing drove me towards graduate studies specialized notably in acoustics and a PhD specialized in audio signal processing. My research topics mainly comprise solving acoustic and audio signal processing inverse problems. During my PhD I had been working on declipping and denoising using analysis/synthesis sparse priors. I also worked on binaural sound source localization with massive regressions machine learning techniques. Additionally, I am really interested in the auditory system and topics such as augmented hearing, speech enhancement or hearing protection."
   },
   "skills":{
     "my_skills": "My Skills"
@@ -31,14 +31,14 @@
   "career":{
     "my_career": "My CV",
     "intro": "You will find below a short description of my last positions and academic degrees.",
-    "panama": "PANAMA team, IRISA - Inria/CNRS (France)",
-    "panama_des": "I am currently working as a PhD student in the Panama team (a joint project team between Inria and CNRS). My main research interests are inverse problems in audio & acoustic signal processing.",
-    "panama_date": "Nov. 2015",
+    "panama": "PhD, Rennes 1 University",
+    "panama_des": "In January 2019, I graduated from Université de Rennes 1 where I studied my PhD in the IRISA lab (the Panama team - a joint project team between Inria and CNRS). My main research interests were inverse problems in audio & acoustic signal processing.",
+    "panama_date": "Nov. 2015 - Jan. 2019",
     "panama_job": "PhD Candidate",
     "southampton": "Hearing and Balance Centre, ISVR - Southampton University (UK)",
     "southampton_des": "During this research stay, I studied auditory adaptation to noise for improved speech perception. The focus was finding noise characteristics and acclimatization time-scales for enhanced speech perception. For that purpose, I used signal processing tools to design and conduct different listening experiments on 33 volunteers with normal hearing.",
     "southampton_date": "Mar. 2015 - Sep. 2015",
-    "southampton_job": "Engineering training / Master thesis",
+    "southampton_job": "Postgraduate visiting student",
     "ensim": "French Graduate Engineer (ENSIM)",
     "ensim_des": "In November 2015, I graduated from ENSIM, an engineering school in 5 years under the authority of the French Ministry of Education and Research. I chose to focus my studies on Acoustics, Vibrations and Sensors.",
     "ensim_date": "Nov. 2015",

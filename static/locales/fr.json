@@ -15,7 +15,7 @@
   },
   "about_me":{
     "about_me": "Informations",
-    "des": "Bienvenue sur mon site web, je m'appelle Clément Gaultier. Je travaille comme doctorant au sein de l'équipe PANAMA, principalement sur la résolution de problèmes inverses en acoustique et traitement du signal audio. Depuis novembre 2015, j'ai pu proposer des techniques de débruitage et désaturation grâce à des modèles parcimonieux. J'ai pu également expérimenter des méthodes de localisation binaurale de sources sonores basées sur des techniques d'apprentissage. Par ailleurs, je suis très interessé par le fonctionnement du système auditif et des sujets tels que l'audition augmentée, la correction ou la protection auditive."
+    "des": "Bienvenue sur mon site web. L'intérêt que je porte pour le son, l'acoustique ou l'audition ont naturellement orienté mon parcours vers des études spécialisées en vibrations-acoustique-capteurs puis vers un doctorat spécialisé en traitement du signal audio. Je m'intéresse en particulier à la résolution de problèmes inverses en acoustique et traitement du signal audio. Pendant mon doctorat, j'ai pu proposer de nouvelles techniques de débruitage et désaturation grâce à des modèles parcimonieux. J'ai pu également expérimenter des méthodes de localisation binaurale de sources sonores basées sur des techniques d'apprentissage automatique. Par ailleurs, je suis très interessé par le fonctionnement du système auditif et des sujets tels que l'audition augmentée, la correction ou la protection auditive."
   },
   "skills":{
     "my_skills": "Mes Compétences"
@@ -23,7 +23,7 @@
   "projects":{
     "my_projects": "Mes Projets",
     "intro": "Ci-dessous, vous trouverez quelques projets sur lequels je travaille. Cliquez sur le nom pour visiter la page web associée.",
-    "spare": "Spare (SParse Audio REstoration) est un projet de recherche proposant un nouveau cadre pour traiter des problèmes de reconstruction audio comme le débruitage et la désaturation.",
+    "spare": "Spare (SParse Audio REstoration) est un projet de recherche proposant un nouveau cadre unifié pour traiter des problèmes de reconstruction audio comme le débruitage et la désaturation.",
     "vast": "VAST (The Virtual Acoustic Space Traveler) apporte de nouveaux outils pour des applications comme la localisation de source sonores ou l'estimation d'absorption en utilisant des méthodes d'apprentissage virtuellement supervisé.",
     "jsm": "JSM (Journée Science et Musique) est une journée grand public de médiation scientifique sur les thèmes Science & Musique organisée chaque année par l'équipe PANAMA (Centre de recherche IRISA - Rennes) ",
     "aspade": "A-SPADE (Analysis SParse Audio DEclipper) développe une méthode de désaturation audio utilisant des \"a priori\" parcimomieux à l'analyse."
@@ -31,9 +31,9 @@
   "career":{
     "my_career": "Mon CV",
     "intro": "Vous trouverez ci-dessous une courte description de ma situation professionelle ainsi que mes diplômes.",
-    "panama": "Équipe PANAMA, IRISA - Inria/CNRS (France)",
-    "panama_des": "Je suis actuellement doctorant au sein de l'équipe PANAMA (une équipe commune à Inria et au CNRS). Mes thèmes de recherche sont la résolution de problèmes inverses en acoustique et traitement du signal audio.",
-    "panama_date": "Nov. 2015",
+    "panama": "Docteur, Université de Rennes 1",
+    "panama_des": "En janvier 2019 j'ai été diplômé d'un doctorat de l'Université de Rennes 1 spécialisé dans le traitement du signal pour l'audio et l'acoustique. J'ai éffectué mes travaux de recherche au laboratoire IRISA (au sein de l'équipe PANAMA une équipe commune à Inria et au CNRS). Mes thèmes de recherche étaient la résolution de problèmes inverses en acoustique et traitement du signal audio.",
+    "panama_date": "Janv. 2019",
     "panama_job": "Doctorant",
     "southampton": "Hearing and Balance Centre, ISVR - Southampton University (Royaume-Uni)",
     "southampton_des": "Pendant ce séjour de recherche, j'ai pu étudier les phénomènes d’acclimatation au bruit environnant en présence de parole. Pour cela j'ai mené plusieurs expériences d’écoute conduites sur 33 sujets volontaires. D’une part afin de confirmer cet effet d’adaptation et d’autre part pour évaluer le temps nécessaire aux individus pour améliorer leur perception d’un discours en présence de bruit de fond.",
