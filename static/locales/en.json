@@ -31,6 +31,10 @@
   "career":{
     "my_career": "My CV",
     "intro": "You will find below a short description of my last positions and academic degrees.",
+    "panamaRD": "Inria, PANAMA project team",
+    "panamaRD_des": "From February to August 2019, I worked as a research engineer for Inria mainly on audio restoration algorithms (multichannel declipping, pop/burst noise removal...).",
+    "panamaRD_date": "Feb. 2019 - Aug. 2019",
+    "panamaRD_job": "Research engineer",
     "panama": "PhD, Rennes 1 University",
     "panama_des": "In January 2019, I graduated from Université de Rennes 1 where I studied my PhD in the IRISA lab (the Panama team - a joint project team between Inria and CNRS). My main research interests were inverse problems in audio & acoustic signal processing.",
     "panama_date": "Nov. 2015 - Jan. 2019",
@@ -51,7 +55,7 @@
   "publications":{
     "my_publications": "My Publications",
     "intro": "You will find below a list of my scientific publications.",
-    "preprint": "Working papers"
+    "preprint": "Pipelined papers / research reports"
   },
   "link":{
     "intro": "Snail mail should go to the address below, otherwise, you can click on the envelope to send me an email.",

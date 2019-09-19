@@ -31,6 +31,10 @@
   "career":{
     "my_career": "Mon CV",
     "intro": "Vous trouverez ci-dessous une courte description de ma situation professionelle ainsi que mes diplômes.",
+    "panamaRD": "Inria, équipe projet PANAMA",
+    "panamaRD_des": "Entre février et août 2019, j'ai travaillé comme ingénieur de recherche pour Inria principalement sur le développement d'algorithmes de reconstruction sonore (désaturation multi-canale, réduction de plosives...).",
+    "panamaRD_date": "Fév. 2019 - Août 2019",
+    "panamaRD_job": "Ingénieur de recherche",
     "panama": "Docteur, Université de Rennes 1",
     "panama_des": "En janvier 2019 j'ai été diplômé d'un doctorat de l'Université de Rennes 1 spécialisé dans le traitement du signal pour l'audio et l'acoustique. J'ai éffectué mes travaux de recherche au laboratoire IRISA (au sein de l'équipe PANAMA une équipe commune à Inria et au CNRS). Mes thèmes de recherche étaient la résolution de problèmes inverses en acoustique et traitement du signal audio.",
     "panama_date": "Janv. 2019",

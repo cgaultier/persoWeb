@@ -2,6 +2,21 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
     detail: PANAMA team (IRISA - Inria/CNRS)
+    i18n: panamaRD
+  desc:
+    detail: From February to August 2019, I worked as a research engineer for Inria mainly on audio restoration algorithms (multichannel declipping, pop/burst noise removal...).
+    i18n: panamaRD_des
+  date:
+    detail: Feb. 2019 - Aug. 2019
+    i18n: panamaRD_date
+  job:
+    detail: Research engineer
+    i18n: panamaRD_job
+  icon: fa-search
+  link: https://team.inria.fr/panama/
+
+- name:
+    detail: PANAMA team (IRISA - Inria/CNRS)
     i18n: panama
   desc:
     detail: In January 2019, I graduated from Université de Rennes 1 where I did my PhD in the IRISA lab (the Panama team - a joint project team between Inria and CNRS). My main research interests were inverse problems in audio & acoustic signal processing.
@@ -12,7 +27,7 @@
   job:
     detail: PhD Candidate
     i18n: panama_job
-  icon: fa-search
+  icon: fa-graduation-cap
   link: https://team.inria.fr/panama/
 
 - name:
