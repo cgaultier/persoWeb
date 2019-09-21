@@ -1,6 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Orange Labs
+    i18n: Orange
+  desc:
+    detail: Since September 2019, I am working as a postoctoral researcher with Orange Labs (R&D division of the Orange group) on acoustic echo cancellation for distributed audio systems and interpersonal communication.
+    i18n: Orange_des
+  date:
+    detail: Current position
+    i18n: Orange_date
+  job:
+    detail: Postdoctoral researcher
+    i18n: Orange_job
+  icon: fa-search
+  link: https://www.orange.com/en/home
+
+- name:
     detail: PANAMA team (IRISA - Inria/CNRS)
     i18n: panamaRD
   desc:

@@ -31,6 +31,10 @@
   "career":{
     "my_career": "Mon CV",
     "intro": "Vous trouverez ci-dessous une courte description de ma situation professionelle ainsi que mes diplômes.",
+    "Orange": "Orange Labs",
+    "Orange_des": "Depuis septembre 2019, je travaille comme chercheur post-doctorant au sein d'Orange Labs (la division R&D du groupe Orange) principalement sur des thématiques liées à l'audio distribué (annulation d'écho, communication inter-personnelle).",
+    "Orange_date": "Poste actuel",
+    "Orange_job": "Chercheur postdoctorant",
     "panamaRD": "Inria, équipe projet PANAMA",
     "panamaRD_des": "Entre février et août 2019, j'ai travaillé comme ingénieur de recherche pour Inria principalement sur le développement d'algorithmes de reconstruction sonore (désaturation multi-canale, réduction de plosives...).",
     "panamaRD_date": "Fév. 2019 - Août 2019",
