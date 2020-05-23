@@ -22,11 +22,12 @@
   },
   "projects":{
     "my_projects": "My Projects",
-    "intro": "Find below some of the projects I am working on. Click on the name to visit the associated webpage.",
+    "intro": "Find below some of the projects I am involved in or I contributed to. Click on the name to visit the associated webpage.",
     "spare": "Spare (SParse Audio REstoration) is a research project aming at proposing a new modeling and algorithmic framework to tackle audio reconstruction issues like denoising and declipping.",
     "vast": "VAST (The Virtual Acoustic Space Traveler) is a research project aming at providing tools for applications such as sound source localization or room absorption prediction, using virtually supervised learning.",
     "jsm": "JSM (Journée Science et Musique) is a science popularization open day about science and music organized every year by the PANAMA team (IRISA research center, Rennes (France)).",
-    "aspade": "A-SPADE (Analysis SParse Audio DEclipper) is a research project that developped an audio declipping procedure using analysis sparse modeling priors."
+    "aspade": "A-SPADE (Analysis SParse Audio DEclipper) is a research project that developped an audio declipping procedure using analysis sparse modeling priors.",
+    "moderncv": "A latex CV template using the moderncv class with Font Awesome 5 icon support."
   },
   "career":{
     "my_career": "My CV",

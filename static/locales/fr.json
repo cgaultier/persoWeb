@@ -22,11 +22,12 @@
   },
   "projects":{
     "my_projects": "Mes Projets",
-    "intro": "Ci-dessous, vous trouverez quelques projets sur lequels je travaille. Cliquez sur le nom pour visiter la page web associée.",
-    "spare": "Spare (SParse Audio REstoration) est un projet de recherche proposant un nouveau cadre unifié pour traiter des problèmes de reconstruction audio comme le débruitage et la désaturation.",
+    "intro": "Ci-dessous, vous trouverez quelques projets dans lesquels je suis impliqué ou auquels j'ai pu contribuer. Cliquez sur le nom pour visiter la page web associée.",
+    "spare": "Spare (SParse Audio REstoration) propose un nouveau cadre unifié pour traiter des problèmes de reconstruction audio comme le débruitage et la désaturation.",
     "vast": "VAST (The Virtual Acoustic Space Traveler) apporte de nouveaux outils pour des applications comme la localisation de source sonores ou l'estimation d'absorption en utilisant des méthodes d'apprentissage virtuellement supervisé.",
     "jsm": "JSM (Journée Science et Musique) est une journée grand public de médiation scientifique sur les thèmes Science & Musique organisée chaque année par l'équipe PANAMA (Centre de recherche IRISA - Rennes) ",
-    "aspade": "A-SPADE (Analysis SParse Audio DEclipper) développe une méthode de désaturation audio utilisant des \"a priori\" parcimomieux à l'analyse."
+    "aspade": "A-SPADE (Analysis SParse Audio DEclipper) développe une méthode de désaturation audio utilisant des \"a priori\" parcimomieux à l'analyse.",
+    "moderncv": "Un modèle latex de CV utilisant une évolution de la classe moderncv supportant la police d'icones Font Awesome 5."
   },
   "career":{
     "my_career": "Mon CV",

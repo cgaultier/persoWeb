@@ -32,3 +32,12 @@
   #repo: Jalpc-A
   img: /static/assets/img/projects/JSM.png
   desc: JSM (Journée Science et Musique) is a science popularization open day about science and musique organized every year by the PANAMA team (IRISA research center, Rennes (France)).
+
+- name: Moderncv Template
+  i18n: moderncv
+  url: https://gitlab.com/cgaultier/moderncv-template
+  #gh_user: jarrekk
+  #repo: Jalpc-A
+  img: /static/assets/img/projects/MODERNCV.png
+  desc: A latex CV template using the moderncv class with Font Awesome 5 icon support.
+
