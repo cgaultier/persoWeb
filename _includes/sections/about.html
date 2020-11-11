@@ -19,10 +19,10 @@
         {% endfor %}
         <!-- avatar -->
         <div class="col-xs-4">
-            <div class="team-member wow zoomIn">
+            <div class="team-member">
                 <img src="{{ site.author.avatar | prepend: site.baseurl }}" height="100" width="75" class="img-responsive img-circle" alt="Clément Gaultier">
                 <h4><span class="navy">{{ site.author.first_name }}</span> {{ site.author.last_name }}</h4>
-                <ul class="list-inline social-icon">
+                <ul class="list-inline social-icon wow zoomIn">
                   {% if site.author.github_username %}
                   <li><a href="https://github.com/{{ site.author.github_username }}" target="blank" title="GitHub"><i class="fa fa-github"></i></a></li>
                   {% endif %}
@@ -62,7 +62,7 @@
         {% endfor %}
     </div>
     <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg wow zoomIn">
+        <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
             <p><span data-i18n="about_me.des">{{ site.author.desc }}</span></p>
         </div>
     </div>

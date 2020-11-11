@@ -6,7 +6,7 @@ description: Clément Gaultier, PhD in audio signal processing - M.Sc in acousti
 keywords: Clément Gaultier Auditory Sound Acoustics DSP Signal Processing Audio Declipping Denoising Inria Hearing Aid Speech Enhancement Clement Audio
 baseurl:
 url: https://gaultier.io
-# url: http://127.0.0.1:4000
+#url: http://127.0.0.1:4000
 img_path:
 cvButton: Download my detailed CV
 cvLink: /static/assets/pdf/CV_en.pdf
