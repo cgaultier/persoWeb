@@ -63,7 +63,7 @@
     "preprint": "Pipelined papers / research reports"
   },
   "link":{
-    "intro": "Snail mail should go to the address below, otherwise, you can click on the envelope to send me an email.",
+    "intro": "You can click on the envelope to send me an email.",
     "link": "Contact",
     "view": "views",
     "thanks": "Powered by Jekyll using the Jalpc theme.",

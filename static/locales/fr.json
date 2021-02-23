@@ -1,6 +1,6 @@
 {
   "website":{
-    "title": "Clément Gaaultier",
+    "title": "Clément Gaultier",
     "cvButton": "Télécharger mon CV détaillé (anglais)",
     "cvLink": "/static/assets/pdf/CV_fr.pdf"
   },
@@ -63,7 +63,7 @@
     "preprint": "Rapports/en cours..."
   },
   "link":{
-    "intro": "Pour m'écrire par voie postale, utilisez l'adresse ci-dessous ou cliquez sur l'enveloppe pour m'envoyer un courrier électronique.",
+    "intro": "Pour m'écrire, cliquez sur l'enveloppe pour m'envoyer un courrier électronique.",
     "link": "Contact",
     "view": "vues",
     "thanks": "Propulsé par Jekyll avec le thème Jalpc.",
