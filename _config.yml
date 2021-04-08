@@ -16,12 +16,12 @@ author:
   name: Clément Gaultier
   first_name: Clément
   last_name: Gaultier
-  cv: https://cgaultier.gitlab.io/cv/CV_en_ClementGAULTIER.pdf
+  cv: https://cv.gaultier.io/CV_en_ClementGAULTIER.pdf
   email: clement@gaultier.io
   facebook_username: # removed in the template
   github_username: # removed in the template
   linkedin_id: clement-gaultier
-  viadeo_address: http://www.viadeo.com/p/002e58nukfal0ds
+  #viadeo_address: http://www.viadeo.com/p/002e58nukfal0ds
   twitter_username:
   scholar_address: https://scholar.google.com/citations?user=pP4U2sMAAAAJ&hl=en
   avatar: /static/assets/img/landing/Clement.png
