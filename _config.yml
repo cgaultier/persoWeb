@@ -2,8 +2,8 @@
 
 # Website settings
 title: Clément Gaultier - Clément Gaultier
-description: Clément Gaultier, PhD in audio signal processing - M.Sc in acoustics - Graduate engineer in vibrations, acoustics, sensors. 
-keywords: Clément Gaultier Auditory Sound Acoustics DSP Signal Processing Audio Declipping Denoising Inria Hearing Aid Speech Enhancement Clement Audio
+description: Clément Gaultier, Research Fellow - University of Cambridge. 
+keywords: Clément Gaultier Auditory Sound Acoustics DSP Signal Processing Audio Declipping Denoising Hearing Aid Speech Enhancement Clement Audio Cambridge
 baseurl:
 url: https://gaultier.io
 #url: http://127.0.0.1:4000
@@ -58,5 +58,5 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-gems:
+plugins:
 - jekyll-email-protect

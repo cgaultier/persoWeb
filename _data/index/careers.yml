@@ -1,13 +1,28 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: MRC CBU, University of Cambridge
+    i18n: Cambridge
+  desc:
+    detail: From December 2021, I have been working as a postoctoral researcher at the MRC CBU (University of Cambridge) thanks to a \"Fondation Pour l'Audition\" Fellowship. The project relies on a combination of auditory-inspired machine learning, multi-channel signal processing and accurate room acoustics for building an improved speech enhancement strategy able to tackle the joint problem of noise and reverberation for cochlear implants users.
+    i18n: Cambridge_des
+  date:
+    detail: Current position
+    i18n: Cambridge_date
+  job:
+    detail: Research Fellow
+    i18n: Cambridge_job
+  icon: fa-search
+  link: https://www.mrc-cbu.cam.ac.uk
+
+- name:
     detail: Orange Labs
     i18n: Orange
   desc:
-    detail: Since September 2019, I have been working as a postoctoral researcher with Orange Labs (R&D division of the Orange group) on multichannel acoustic echo cancellation for distributed audio systems and interpersonal communication.
+    detail: From September 2019 to February 2021, I worked as a postoctoral researcher with Orange Labs (R&D division of the Orange group) on multichannel acoustic echo cancellation for distributed audio systems and interpersonal communication.
     i18n: Orange_des
   date:
-    detail: Current position
+    detail: Sept. 2019 - Feb. 2021
     i18n: Orange_date
   job:
     detail: Postdoctoral researcher

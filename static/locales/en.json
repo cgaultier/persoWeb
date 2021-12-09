@@ -8,7 +8,7 @@
     "home": "Home",
     "about_me": "About",
     "skills": "Skills",
-    "projects": "Projects",
+    "projects": "Links",
     "career": "CV",
     "blog": "Blog",
     "link": "Contact"
@@ -21,8 +21,9 @@
     "my_skills": "My Skills"
   },
   "projects":{
-    "my_projects": "My Projects",
-    "intro": "Find below some of the projects I am involved in or I contributed to. Click on the name to visit the associated webpage.",
+    "my_projects": "Links",
+    "intro": "Find below some useful links or projects I am involved in or I contributed to. Click on the name to visit the associated webpage.",
+    "deephearinglab": "Dr Tobias Goehring's research lab with a focus on speech perception with hearing devices (cochlear implants, hearing aids and hearables) using techniques from auditory neuroscience, engineering and deep learning.",
     "spare": "Spare (SParse Audio REstoration) is a research project aming at proposing a new modeling and algorithmic framework to tackle audio reconstruction issues like denoising and declipping.",
     "vast": "VAST (The Virtual Acoustic Space Traveler) is a research project aming at providing tools for applications such as sound source localization or room absorption prediction, using virtually supervised learning.",
     "jsm": "JSM (Journée Science et Musique) is a science popularization open day about science and music organized every year by the PANAMA team (IRISA research center, Rennes (France)).",
@@ -32,9 +33,13 @@
   "career":{
     "my_career": "My CV",
     "intro": "You will find below a short description of my last positions and academic degrees.",
+    "Cambridge": "MRC CBU, University of Cambridge",
+    "Cambridge_des": "From December 2021, I have been working as a postoctoral researcher at the MRC CBU (University of Cambridge) thanks to a \"Fondation Pour l'Audition\" Fellowship. The project relies on a combination of auditory-inspired machine learning, multi-channel signal processing and accurate room acoustics for building an improved speech enhancement strategy able to tackle the joint problem of noise and reverberation for cochlear implants users.",
+    "Cambridge_date": "Current position",
+    "Cambridge_job": "Research Fellow",
     "Orange": "Orange Labs",
-    "Orange_des": "Since September 2019, I have been working as a postoctoral researcher with Orange Labs (R&D division of the Orange group) on multichannel acoustic echo cancellation for distributed audio systems and interpersonal communication.",
-    "Orange_date": "Current position",
+    "Orange_des": "From September 2019 to February 2021, I worked as as a postoctoral researcher with Orange Labs (R&D division of the Orange group) on multichannel acoustic echo cancellation for distributed audio systems and interpersonal communication.",
+    "Orange_date": "Sept. 2019 - Feb. 2021",
     "Orange_job": "Postdoctoral researcher",
     "panamaRD": "Inria, PANAMA project team",
     "panamaRD_des": "From February to August 2019, I worked as a research engineer for Inria mainly on audio restoration algorithms (multichannel declipping, pop/burst noise removal...).",
