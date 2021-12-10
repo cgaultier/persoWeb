@@ -15,7 +15,7 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "Welcome to my webpage. My strong insterest in sound, acoustics or hearing drove me towards graduate studies specialized notably in acoustics and a PhD specialized in audio signal processing. My research topics mainly comprise solving acoustic and audio signal processing inverse problems. During my PhD I had been working on declipping and denoising using analysis/synthesis sparse priors. I also worked on binaural sound source localization with massive regressions machine learning techniques. Additionally, I am really interested in the auditory system and topics such as augmented hearing, speech enhancement or hearing protection."
+    "des": "I am a postoctoral Fellow at the University of Cambridge, studying with a multidisciplinary approach, new speech enhancement strategies able to cope with noise and reverberation for cochlear implants users. My research topics mainly comprise solving acoustic and audio signal processing inverse problems. During my PhD I had been working on declipping and denoising using analysis/synthesis sparse priors. I also worked on binaural sound source localization with massive regressions machine learning techniques. Additionally, I am really interested in auditory related topics such as augmented hearing, or hearing protection."
   },
   "skills":{
     "my_skills": "My Skills"

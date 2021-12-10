@@ -15,7 +15,7 @@
   },
   "about_me":{
     "about_me": "Informations",
-    "des": "Bienvenue sur mon site web. L'intérêt que je porte pour le son, l'acoustique ou l'audition ont naturellement orienté mon parcours vers des études spécialisées en vibrations-acoustique-capteurs puis vers un doctorat spécialisé en traitement du signal audio. Je m'intéresse en particulier à la résolution de problèmes inverses en acoustique et traitement du signal audio. Pendant mon doctorat, j'ai pu proposer de nouvelles techniques de débruitage et désaturation grâce à des modèles parcimonieux. J'ai pu également expérimenter des méthodes de localisation binaurale de sources sonores basées sur des techniques d'apprentissage automatique. Par ailleurs, je suis très interessé par le fonctionnement du système auditif et des sujets tels que l'audition augmentée, la correction ou la protection auditive."
+    "des": "Je suis chercheur postdoctorant à l'université de Cambridge et étudie, avec une approche multidisciplinaire de nouvelles stratégies de rehaussement de parole adaptées aux porteurs d'implants cochléaires. Mes thèmes de recherche comprennent la résolution de problèmes inverses en acoustique et traitement du signal audio. Pendant mon doctorat, j'ai pu proposer de nouvelles techniques de débruitage et désaturation grâce à des modèles parcimonieux. J'ai pu également expérimenter des méthodes de localisation binaurale de sources sonores basées sur des techniques d'apprentissage automatique. Par ailleurs, je suis très interessé par les sujets ayant attrait au système auditif tels que l'audition augmentée, la correction ou la protection auditive."
   },
   "skills":{
     "my_skills": "Mes Compétences"
