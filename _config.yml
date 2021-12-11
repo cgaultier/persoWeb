@@ -31,7 +31,7 @@ author:
   skill_icon2:
     - name: fa-assistive-listening-systems
     - name: fa-microphone
-  desc: "I am a postoctoral Fellow at the University of Cambridge, studying with a multidisciplinary approach, new speech enhancement strategies able to cope with noise and reverberation for cochlear implants users. My research topics mainly comprise solving acoustic and audio signal processing inverse problems. During my PhD I had been working on declipping and denoising using analysis/synthesis sparse priors. I also worked on binaural sound source localization with massive regressions machine learning techniques. Additionally, I am really interested in auditory related topics such as augmented hearing, or hearing protection."
+  desc: "I work as a Research Fellow at the University of Cambridge, studying with a multidisciplinary approach, new speech enhancement strategies able to cope with noise and reverberation for cochlear implants users. My research topics mainly comprise solving acoustic and audio signal processing inverse problems. During my PhD I had been working on declipping and denoising using analysis/synthesis sparse priors. I also worked on binaural sound source localization with massive regressions machine learning techniques. Additionally, I am really interested in auditory related topics such as augmented hearing, or hearing protection."
 
 # comment
 # disqus:
