@@ -10,6 +10,14 @@
   img: /static/assets/img/projects/DeepHearingLab.png 
   desc: Dr Tobias Goehring's research lab with a focus on speech perception with hearing devices (cochlear implants, hearing aids and hearables) using techniques from auditory neuroscience, engineering and deep learning.
 
+# - name: Fondation Pour l'Audition
+#   i18n: fpa
+#   url: https://www.fondationpourlaudition.org
+#   #gh_user: jarrekk
+#   #repo: imgkit
+#   img: /static/assets/img/projects/FPA.png 
+#   desc: Recognized as a public-interest organization, one of the Fondation Pour l'Audition's key goals is supporting French researchers and labs in accelerating hearing research through calls for proposals, scientific prizes and open requests.   
+
 - name: VAST
   i18n: vast
   url: http://thevastproject.inria.fr
