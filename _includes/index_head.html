@@ -34,21 +34,21 @@
   </script>
 
   <!-- Rich snippets -->
-  <span itemscope itemtype="http://schema.org/Person">
+<!-- <span itemscope itemtype="http://schema.org/Person">
     <meta itemprop="name" content="{{ site.author.name }}"/>
     <meta itemprop="email" content="{{ site.author.email }}"/>
     <meta itemprop="image" content="{{ site.author.avatar | prepend: site.url }}"/>
     <link itemprop="url" href="{{ site.url }}">
     <a itemprop="sameAs" href="https://www.linkedin.com/in/{{ site.author.linkedin_id }}"></a>
     <a itemprop="sameAs" href="{{ site.author.scholar_address }}"></a>
-  </span>
+</span> -->
 
-  <span itemscope itemtype="http://schema.org/WebSite">
+<span itemscope itemtype="http://schema.org/WebSite">
     <meta itemprop="name" content="{{ site.author.name }}"/>
     <link itemprop="url" href="{{ site.url }}">
     <meta itemprop="inLanguage" content="en"/>
     <meta itemprop="inLanguage" content="fr"/>
-  </span>
+</span>
 
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 <script type="application/ld+json">
@@ -58,7 +58,6 @@
 	"name": "Clément Gaultier",
 	"alternateName": "Clement Gaultier",
 	"nationality": "French",
-	"award": "Fondation Pour l'Audition Postdoctoral Fellowship",
 	"affiliation": [
 		{
 			"@type": "Organization",
@@ -100,6 +99,9 @@
 	"gender": "Male",
 	"Description": "Researcher",
 	"jobTitle": "Researcher",
+	"colleague": [
+     		"https://twitter.com/tobigoehring"
+  	],
 	"worksFor": [
 		{
 			"@type": "Organization",
@@ -124,5 +126,41 @@
 		"https://gaultier.io"
 	]
  }
+</script>
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+        {
+            "@type": "SiteNavigationElement",
+            "position": 1,
+            "name": "About",
+            "description": "Click to know more.",
+            "url": "https://gaultier.io/#about-me"
+        },
+        {
+            "@type": "SiteNavigationElement",
+            "position": 2,
+            "name": "Publications",
+            "description": "Read more about my publications.",
+            "url": "https://gaultier.io/#publications"
+        },
+        {
+            "@type": "SiteNavigationElement",
+            "position": 3,
+            "name": "Links",
+            "description": "Read more about some previous or ongoing projects.",
+            "url": "https://gaultier.io/#projects"
+        },
+        {
+            "@type": "SiteNavigationElement",
+            "position": 4,
+            "name": "Contact",
+            "description": "Contact me here.",
+            "url": "https://gaultier.io/#links"
+        }
+    ]
+}
 </script>
 </head>

@@ -1,0 +1,34 @@
+{
+    "@context": "http://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+        {
+            "@type": "SiteNavigationElement",
+            "position": 1,
+            "name": "About",
+            "description": "Click to know more.",
+            "url": "https://gaultier.io/#about-me"
+        },
+        {
+            "@type": "SiteNavigationElement",
+            "position": 2,
+            "name": "Publications",
+            "description": "Read more about my publications.",
+            "url": "https://gaultier.io/#publications"
+        },
+        {
+            "@type": "SiteNavigationElement",
+            "position": 3,
+            "name": "Links",
+            "description": "Read more about some previous or ongoing projects.",
+            "url": "https://gaultier.io/#projects"
+        },
+        {
+            "@type": "SiteNavigationElement",
+            "position": 4,
+            "name": "Contact",
+            "description": "Contact me here.",
+            "url": "https://gaultier.io/#links"
+        }
+    ]
+}

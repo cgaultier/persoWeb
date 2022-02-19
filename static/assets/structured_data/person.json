@@ -46,6 +46,9 @@
 	"gender": "Male",
 	"Description": "Researcher",
 	"jobTitle": "Researcher",
+	"colleague": [
+		"https://twitter.com/tobigoehring"
+	],
 	"worksFor": [
 		{
 			"@type": "Organization",
