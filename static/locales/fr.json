@@ -23,10 +23,11 @@
   "projects":{
     "my_projects": "Liens",
     "intro": "Ci-dessous, vous trouverez quelques liens utiles ou projets dans lesquels je suis impliqué ou auquels j'ai pu contribuer. Cliquez sur le nom pour visiter la page web associée.",
+    "cifi": "Une page web / démo grand public autour de l'implant cochléaire (crée pour le Cambridge Science Festival en 2022)",
     "deephearinglab": "L'équipe de recherche du Dr. Tobias Goehring étudie la perception de la parole avec aides autidives (implants cochléaires, appareils auditifs and hearables) avec une approche multidisciplinaire alliant neurosciences, traitement du signal et intelligence artificielle.",
     "fpa": "Fondation reconnue d'utilité publique, la Fondation Pour l'Audition soutien des chercheurs et laboratoires français en encourageant la recherche et l'innovation dans les domaines liés aux sciences de l'audition.",
     "spare": "Spare (SParse Audio REstoration) propose un nouveau cadre unifié pour traiter des problèmes de reconstruction audio comme le débruitage et la désaturation.",
-    "vast": "VAST (The Virtual Acoustic Space Traveler) apporte de nouveaux outils pour des applications comme la localisation de source sonores ou l'estimation d'absorption en utilisant des méthodes d'apprentissage virtuellement supervisé.",
+    "vast": "VAST (The Virtual Acoustic Space Traveler) apporte de nouveaux outils pour l'analyse de scènes sonores en utilisant des méthodes d'apprentissage virtuellement supervisé.",
     "jsm": "JSM (Journée Science et Musique) est une journée grand public de médiation scientifique sur les thèmes Science & Musique organisée chaque année par l'équipe PANAMA (Centre de recherche IRISA - Rennes) ",
     "aspade": "A-SPADE (Analysis SParse Audio DEclipper) développe une méthode de désaturation audio utilisant des \"a priori\" parcimomieux à l'analyse.",
     "moderncv": "Un modèle latex de CV utilisant une évolution de la classe moderncv supportant la police d'icones Font Awesome 5."
@@ -35,7 +36,7 @@
     "my_career": "Mon CV",
     "intro": "Vous trouverez ci-dessous une courte description de ma situation professionelle ainsi que mes diplômes.",
     "Cambridge": "MRC CBU, Université de Cambridge (Royaume-Uni)",
-    "Cambridge_des": "Depuis décembre 2021, je travaille comme chercheur post-doctorant au MRC CBU (Université de Cambridge) grâce à une bourse de la \"Fondation Pour l'Audition\" Fellowship. Le projet étudie grâce à une approche multidisciplinaire le problème conjoint de réduction de bruit et dé-réverbération appliqué aux implants cochléaires.",
+    "Cambridge_des": "Depuis décembre 2021, je travaille comme chercheur post-doctorant au MRC Cognition and Brain Sciences Unit (Université de Cambridge) grâce à une bourse de la \"Fondation Pour l'Audition\" Fellowship. Le projet étudie grâce à une approche multidisciplinaire le problème conjoint de réduction de bruit et dé-réverbération pour les personnes porteuses d'implants cochléaires.",
     "Cambridge_date": "Post actuel",
     "Cambridge_job": "Chercheur post-doctorant",
     "Orange": "Orange Labs",

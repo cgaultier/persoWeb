@@ -15,7 +15,7 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I work as a Research Fellow at the University of Cambridge, studying with a multidisciplinary approach, new speech enhancement strategies able to cope with noise and reverberation for cochlear implants users. My research topics mainly comprise solving acoustic and audio signal processing inverse problems. During my PhD I had been working on declipping and denoising using analysis/synthesis sparse priors. I also worked on binaural sound source localization with massive regressions machine learning techniques. Additionally, I am really interested in auditory related topics such as augmented hearing, or hearing protection."
+    "des": "I work as a Research Fellow at the University of Cambridge, studying with a multidisciplinary approach, new speech enhancement strategies able to cope with noise and reverberation for cochlear implants listeners. My research topics mainly comprise solving acoustic and audio signal processing inverse problems. During my PhD I had been working on declipping and denoising using analysis/synthesis sparse priors. I also worked on binaural sound source localization with massive regressions machine learning techniques. Additionally, I am really interested in auditory related topics such as augmented hearing, speech perception, or hearing protection."
   },
   "skills":{
     "my_skills": "My Skills"
@@ -23,10 +23,11 @@
   "projects":{
     "my_projects": "Links",
     "intro": "Find below some useful links or projects I am involved in or I contributed to. Click on the name to visit the associated webpage.",
+    "cifi": "A popularization webpage/app demo about cochlear implants, initially designed for the Cambridge Science Festival (2022)",
     "deephearinglab": "Dr Tobias Goehring's research lab with a focus on speech perception with hearing devices (cochlear implants, hearing aids and hearables) using techniques from auditory neuroscience, engineering and deep learning.",
     "fpa": "Recognized as a public-interest organization, one of the Fondation Pour l'Audition's key goals is supporting French researchers and labs in accelerating hearing research through calls for proposals, scientific prizes and open requests.",
     "spare": "Spare (SParse Audio REstoration) is a research project aming at proposing a new modeling and algorithmic framework to tackle audio reconstruction issues like denoising and declipping.",
-    "vast": "VAST (The Virtual Acoustic Space Traveler) is a research project aming at providing tools for applications such as sound source localization or room absorption prediction, using virtually supervised learning.",
+    "vast": "VAST (The Virtual Acoustic Space Traveler) is a research project aming at providing tools for applications such as sound source localization using virtually supervised learning.",
     "jsm": "JSM (Journée Science et Musique) is a science popularization open day about science and music organized every year by the PANAMA team (IRISA research center, Rennes (France)).",
     "aspade": "A-SPADE (Analysis SParse Audio DEclipper) is a research project that developped an audio declipping procedure using analysis sparse modeling priors.",
     "moderncv": "A latex CV template using the moderncv class with Font Awesome 5 icon support."
@@ -35,7 +36,7 @@
     "my_career": "My CV",
     "intro": "You will find below a short description of my last positions and academic degrees.",
     "Cambridge": "MRC CBU, University of Cambridge",
-    "Cambridge_des": "From December 2021, I have been working as a postoctoral researcher at the MRC CBU (University of Cambridge) thanks to a \"Fondation Pour l'Audition\" Fellowship. The project relies on a combination of auditory-inspired machine learning, multi-channel signal processing and room acoustic simulations for building an improved speech enhancement strategy able to tackle the joint problem of noise and reverberation for cochlear implants users.",
+    "Cambridge_des": "From December 2021, I have been working as a postoctoral researcher at the MRC Cognition and Brain Sciences Unit (University of Cambridge) thanks to a \"Fondation Pour l'Audition\" Fellowship. The project relies on a combination of auditory-inspired machine learning, multi-channel signal processing and room acoustic simulations for studying new speech enhancement strategies able to tackle the joint problem of noise and reverberation for cochlear implants listeners.",
     "Cambridge_date": "Current position",
     "Cambridge_job": "Research Fellow",
     "Orange": "Orange Labs",

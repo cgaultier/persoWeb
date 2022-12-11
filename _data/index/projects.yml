@@ -2,6 +2,14 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Projects img uses css sprite, before add new projects you should generate sprite img and css file again.
 
+- name: Ci-Fi 🌀 Experience
+  i18n: cifi
+  url: https://deephearinglab.mrc-cbu.cam.ac.uk/ci-fi/
+  #gh_user: jarrekk
+  #repo: imgkit
+  img: /static/assets/img/projects/CIFI.png 
+  desc: A popularization webpage/app demo about cochlear implants, initially designed for the Cambridge Science Festival (2022)
+
 - name: Deep Hearing Lab
   i18n: deephearinglab
   url: https://www.deephearinglab.com
