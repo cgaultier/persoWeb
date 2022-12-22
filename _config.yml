@@ -9,14 +9,14 @@ url: https://gaultier.io
 #url: http://127.0.0.1:4000
 img_path:
 cvButton: Download my detailed CV
-cvLink: /static/assets/pdf/CV_en.pdf
+cvLink: /static/assets/pdf/CV_academia_ClementGAULTIER.pdf
 
 # author
 author:
   name: Clément Gaultier
   first_name: Clément
   last_name: Gaultier
-  cv: https://cv.gaultier.io/CV_en_ClementGAULTIER.pdf
+  cv: https://gaultier.io/static/assets/pdf/CV_academia_ClementGAULTIER.pdf #https://cv.gaultier.io/CV_en_ClementGAULTIER.pdf
   email: clement@gaultier.io
   facebook_username: # removed in the template
   github_username: # removed in the template
