@@ -15,7 +15,7 @@
   },
   "about_me":{
     "about_me": "Informations",
-    "des": "Je travaille comme chercheur postdoctoral à l'université de Cambridge et étudie, avec une approche multidisciplinaire de nouvelles stratégies de rehaussement de parole adaptées aux porteurs d'implants cochléaires. Mes thèmes de recherche comprennent la résolution de problèmes inverses en acoustique et traitement du signal audio. Pendant mon doctorat, j'ai pu proposer de nouvelles techniques de débruitage et désaturation grâce à des modèles parcimonieux. J'ai pu également expérimenter des méthodes de localisation binaurale de sources sonores basées sur des techniques d'apprentissage automatique. Par ailleurs, je suis très interessé par les sujets ayant attrait au système auditif tels que l'audition augmentée, la correction ou la protection auditive."
+    "des": "Je travaille comme chercheur postdoctoral au Centre de Recherche et d'Innovation en Audiologie Humaine (CeRIAH, Institut de l'Audition, Paris) et étudie, avec une approche multidisciplinaire, la perception de la parole et des sons par les porteurs d'implants cochléaires. Mes thèmes de recherche comprennent la résolution de problèmes inverses en acoustique et traitement du signal audio notamment l'étude de nouvelles strategies de rehaussement de la parole pour les personnes porteuses d'implants cochléaires. Pendant mon doctorat, j'ai pu proposer de nouvelles techniques de débruitage et désaturation grâce à des modèles parcimonieux. J'ai pu également expérimenter des méthodes de localisation binaurale de sources sonores basées sur des techniques d'apprentissage automatique. Par ailleurs, je suis très interessé par les sujets ayant attrait au système auditif tels que l'audition augmentée, la correction ou la protection auditive."
   },
   "skills":{
     "my_skills": "Mes Compétences"
@@ -35,12 +35,16 @@
   "career":{
     "my_career": "Mon CV",
     "intro": "Vous trouverez ci-dessous une courte description de ma situation professionelle ainsi que mes diplômes.",
+    "Ceriah": "CeRIAH, Institut de l'Audition, Paris",
+    "Ceriah_des": "Depuis avril 2024, je travaille comme chercheur à l'Institut de l'Audition à Paris grâce à une bourse de recherche \"Pasteur-Roux-Cantarini\". Je concentre mes travaux autour de l'étude de la peception de la parole et des sons pour les personnes porteuses d'implants cochléaires. Ces recherches incluent l'étude de nouvelles stratégies de rehaussement de la parole permettant de restaurer l'intelligibilité en préservant la perception de l'environement sonore.",
+    "Ceriah_date": "Poste actuel",
+    "Ceriah_job": "Chercheur post-doctorant",
     "Cambridge": "MRC CBU, Université de Cambridge (Royaume-Uni)",
-    "Cambridge_des": "Depuis décembre 2021, je travaille comme chercheur post-doctorant au MRC Cognition and Brain Sciences Unit (Université de Cambridge) grâce à une bourse de la \"Fondation Pour l'Audition\" Fellowship. Le projet étudie grâce à une approche multidisciplinaire le problème conjoint de réduction de bruit et dé-réverbération pour les personnes porteuses d'implants cochléaires.",
-    "Cambridge_date": "Post actuel",
+    "Cambridge_des": "De décembre 2021 à décembre 2023, j'ai travaillé comme chercheur post-doctorant au MRC Cognition and Brain Sciences Unit (Université de Cambridge) grâce à une bourse de la \"Fondation Pour l'Audition\" Fellowship. Le projet étudie grâce à une approche multidisciplinaire le problème conjoint de réduction de bruit et dé-réverbération pour les personnes porteuses d'implants cochléaires.",
+    "Cambridge_date": "Déc. 2021 - Déc. 2023",
     "Cambridge_job": "Chercheur post-doctorant",
     "Orange": "Orange Labs",
-    "Orange_des": "Depuis septembre 2019 et février 2021, j'ai travaillé comme chercheur post-doctorant au sein d'Orange Labs (la division R&D du groupe Orange) principalement sur des thématiques liées à l'audio distribué (annulation d'écho, communication inter-personnelle).",
+    "Orange_des": "Entre septembre 2019 et février 2021, j'ai travaillé comme chercheur post-doctorant au sein d'Orange Labs (la division R&D du groupe Orange) principalement sur des thématiques liées à l'audio distribué (annulation d'écho, communication inter-personnelle).",
     "Orange_date": "Sept. 2019 - Fév. 2021",
     "Orange_job": "Chercheur post-doctorant",
     "panamaRD": "Inria, équipe projet PANAMA",
@@ -76,7 +80,7 @@
     "thanks": "Propulsé par Jekyll avec le thème Jalpc.",
     "address": "Adresse :",
     "phone": "Téléphone :",
-    "number": "06 29 50 90 72",
+    "number": "01 76 53 51 26",
     "share": "Partagez mon site web :"
   }
 

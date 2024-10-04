@@ -1,13 +1,28 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: CeRIAH, Hearing Institute, Paris
+    i18n: Ceriah
+  desc:
+    detail: From April 2024, I have been working as a research fellow at the Hearing Institute in Paris thanks to a "Pasteur-Roux-Cantarini" Fellowship. I am focussing on speech and sound perception for people listening with cochlear implants including new speech enhancement strategies to restore intelligibility whilst preserving auditory awareness of the environemnt.
+    i18n: Ceriah_des
+  date:
+    detail: Current position
+    i18n: Ceriah_date
+  job:
+    detail: Research Fellow
+    i18n: Ceriah_job
+  icon: fa-search
+  link: https://www.institut-audition.fr/en/ceriah
+
+- name:
     detail: MRC CBU, University of Cambridge
     i18n: Cambridge
   desc:
-    detail: From December 2021, I have been working as a postoctoral researcher at the MRC CBU (University of Cambridge) thanks to a \"Fondation Pour l'Audition\" Fellowship. The project relies on a combination of auditory-inspired machine learning, multi-channel signal processing and accurate room acoustics for building an improved speech enhancement strategy able to tackle the joint problem of noise and reverberation for cochlear implants users.
+    detail: From December 2021 to December 2023, I worked as a research fellow at the MRC CBU (University of Cambridge) thanks to a \"Fondation Pour l'Audition\" Fellowship. The research project relied on a combination of auditory-inspired machine learning, multi-channel signal processing and accurate room acoustics for building an improved speech enhancement strategy able to tackle the joint problem of noise and reverberation for cochlear implants users.
     i18n: Cambridge_des
   date:
-    detail: Current position
+    detail: Dec. 2021 - Dec. 2023
     i18n: Cambridge_date
   job:
     detail: Research Fellow

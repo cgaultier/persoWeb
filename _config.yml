@@ -1,9 +1,9 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Clément Gaultier - Clément Gaultier
-description: Clément Gaultier, Research Fellow - University of Cambridge. 
-keywords: Clément Gaultier Auditory Sound Acoustics DSP Signal Processing Audio Declipping Denoising Hearing Aid Speech Enhancement Clement Audio University Cambridge
+title: Clément Gaultier
+description: Clément Gaultier, Research Fellow - Institut de l'Audition - University of Cambridge. 
+keywords: Clément Gaultier Auditory Sound Acoustics DSP Signal Processing Audio Declipping Denoising Hearing Aid Speech Enhancement Clement University Cambridge Paris Institut Audition Hearing Institute CeRIAH Cochlear Implants
 baseurl: 
 url: https://gaultier.io
 #url: http://127.0.0.1:4000
@@ -17,7 +17,7 @@ author:
   first_name: Clément
   last_name: Gaultier
   cv: https://gaultier.io/static/assets/pdf/CV_academia_ClementGAULTIER.pdf #https://cv.gaultier.io/CV_en_ClementGAULTIER.pdf
-  email: clement@gaultier.io
+  email: clement.gaultier@pasteur.fr
   facebook_username: # removed in the template
   github_username: # removed in the template
   linkedin_id: clement-gaultier
@@ -31,7 +31,7 @@ author:
   skill_icon2:
     - name: fa-assistive-listening-systems
     - name: fa-microphone
-  desc: "I work as a Research Fellow at the University of Cambridge, studying with a multidisciplinary approach, new speech enhancement strategies able to cope with noise and reverberation for cochlear implants users. My research topics mainly comprise solving acoustic and audio signal processing inverse problems. During my PhD I had been working on declipping and denoising using analysis/synthesis sparse priors. I also worked on binaural sound source localization with massive regressions machine learning techniques. Additionally, I am really interested in auditory related topics such as augmented hearing, or hearing protection."
+  desc: "I work as a Research Fellow at the Hearing Institute in Paris, studying with a multidisciplinary approach, speech and sound perception for people listening with cochlear implants including new speech enhancement strategies to restore intelligibility whilst preserving auditory awareness of the environemnt. My research interests include speech and sound perception, cochlear implants, multi-microphone speech enhancement, speaker discrimination,... During my PhD I had been working on declipping and denoising using analysis/synthesis sparse priors. I also worked on binaural sound source localization with massive regressions machine learning techniques. Additionally, I am really interested in other auditory science related topics such as augmented hearing, or hearing protection."
 
 # comment
 # disqus:

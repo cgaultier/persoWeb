@@ -15,7 +15,7 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I work as a Research Fellow at the University of Cambridge, studying with a multidisciplinary approach, new speech enhancement strategies able to cope with noise and reverberation for cochlear implants listeners. My research topics mainly comprise solving acoustic and audio signal processing inverse problems. During my PhD I had been working on declipping and denoising using analysis/synthesis sparse priors. I also worked on binaural sound source localization with massive regressions machine learning techniques. Additionally, I am really interested in auditory related topics such as augmented hearing, speech perception, or hearing protection."
+    "des": "I work as a Research Fellow at the Hearing Institute in Paris, studying with a multidisciplinary approach, speech and sound perception for people listening with cochlear implants including new speech enhancement strategies to restore intelligibility whilst preserving auditory awareness of the environemnt. My research interests include speech and sound perception, cochlear implants, multi-microphone speech enhancement, speaker discrimination,... During my PhD I had been working on declipping and denoising using analysis/synthesis sparse priors. I also worked on binaural sound source localization with massive regressions machine learning techniques. Additionally, I am really interested in other auditory science related topics such as augmented hearing, or hearing protection."
   },
   "skills":{
     "my_skills": "My Skills"
@@ -35,8 +35,12 @@
   "career":{
     "my_career": "My CV",
     "intro": "You will find below a short description of my last positions and academic degrees.",
+    "Ceriah": "CeRIAH, Hearing Institute, Paris",
+    "Ceriah_des": "From April 2024, I have been working as a research fellow at the Hearing Institute in Paris thanks to a \"Pasteur-Roux-Cantarini\" Fellowship. I am focussing on speech and sound perception for people listening with cochlear implants including new speech enhancement strategies to restore intelligibility whilst preserving auditory awareness of the environemnt.",
+    "Ceriah_date": "Current position",
+    "Ceriah_job": "Research Fellow",
     "Cambridge": "MRC CBU, University of Cambridge",
-    "Cambridge_des": "From December 2021, I have been working as a postoctoral researcher at the MRC Cognition and Brain Sciences Unit (University of Cambridge) thanks to a \"Fondation Pour l'Audition\" Fellowship. The project relies on a combination of auditory-inspired machine learning, multi-channel signal processing and room acoustic simulations for studying new speech enhancement strategies able to tackle the joint problem of noise and reverberation for cochlear implants listeners.",
+    "Cambridge_des": "From December 2021 to December 2023, I worked as a postoctoral researcher at the MRC Cognition and Brain Sciences Unit (University of Cambridge) thanks to a \"Fondation Pour l'Audition\" Fellowship. The project relies on a combination of auditory-inspired machine learning, multi-channel signal processing and room acoustic simulations for studying new speech enhancement strategies able to tackle the joint problem of noise and reverberation for cochlear implants listeners.",
     "Cambridge_date": "Current position",
     "Cambridge_job": "Research Fellow",
     "Orange": "Orange Labs",
@@ -76,7 +80,7 @@
     "thanks": "Powered by Jekyll using the Jalpc theme.",
     "address": "Address:",
     "phone": "Phone:",
-    "number": "+33 629 509 072",
+    "number": "+33 1 76 53 51 26",
     "share": "Share my website:"
   }
 
