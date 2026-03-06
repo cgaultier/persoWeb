@@ -2,7 +2,7 @@
   "website":{
     "title": "Clément Gaultier",
     "cvButton": "Download my detailed Résumé",
-    "cvLink": "/static/assets/pdf/CV_en.pdf"
+    "cvLink": "https://cv.gaultier.io/CV_academia_ClementGAULTIER.pdf"
   },
   "nav":{
     "home": "Home",

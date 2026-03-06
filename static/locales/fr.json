@@ -2,7 +2,7 @@
   "website":{
     "title": "Clément Gaultier",
     "cvButton": "Télécharger mon CV détaillé (anglais)",
-    "cvLink": "/static/assets/pdf/CV_fr.pdf"
+    "cvLink": "https://cv.gaultier.io/CV_academia_ClementGAULTIER.pdf"
   },
   "nav":{
     "home": "Accueil",
